@@ -2,9 +2,9 @@
 header("Content-Type: application/json");
 
 $server_name = 'localhost';
-$port = ;
-$user = '';
-$password = ;
+$port = 3307;
+$user = 'root';
+$password = 1234;
 $dbname = 'api_security';
 
 $conn = mysqli_connect($server_name, $user, $password, $dbname, $port);
