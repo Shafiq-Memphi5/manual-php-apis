@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "Read about APIs",
+        "done": true
+    },
+    {
+        "id": 2,
+        "task": "Get my Hair Trimmed",
+        "done": true
+    },
+    {
+        "id": 3,
+        "task": "Get a home",
+        "done": false
+    }
+]
